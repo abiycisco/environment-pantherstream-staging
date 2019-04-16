@@ -1,7 +1,7 @@
 dependencies:
 - name: aspringdemo2
   repository: http://jenkins-x-chartmuseum:8080
-  version: 0.0.5
+  version: 0.0.6
 - name: demo77
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.1
